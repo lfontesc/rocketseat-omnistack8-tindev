@@ -1,1 +1,1 @@
-# rocketseat-omnistack8-tindev
+# RocketSeat - Omnistack 8.0 - Tindev
